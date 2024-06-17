@@ -1,1 +1,2 @@
-[cfwork](https://dashboard.heroku.com/new?template=)
+# v2flare
+V2ray config generator using cloudflare page
